@@ -1,0 +1,11 @@
+{
+    "shipping_address": {
+        "first_name": "Dawit",
+        "last_name": "Demissie",
+        "address_line1": "250 11th st NE",
+        "zip_code": "20002",
+        "city": "Washington",
+        "state": "DC",
+        "country": "US"
+    }
+}
